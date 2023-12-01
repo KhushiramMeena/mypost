@@ -3,7 +3,7 @@
 1. Clone my repository
 
 ```
-https://github.com/KhushiramMeena/YourPost.git
+https://github.com/KhushiramMeena/mypost.git
 ```
 
 2. Install dependencies
